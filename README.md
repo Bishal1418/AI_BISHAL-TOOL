@@ -50,3 +50,6 @@ Telegram: https://t.me/aibishal
 ⭐ If you find this project useful, give it a Star!
 
 **Made with ❤️ by AI_BISHAL**
+<img width="1116" height="825" alt="gu2" src="https://github.com/user-attachments/assets/ba1f967d-f410-499a-ada5-16c115b4aeb1" />
+<img width="667" height="646" alt="gui" src="https://github.com/user-attachments/assets/07c12c84-4853-4e30-9bed-cf4ebdd5aa29" />
+
